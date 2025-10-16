@@ -204,9 +204,10 @@ st.write("- provinsi dengan kecenderungan jenjang SD dan SMP yaitu Sulawesi teng
 
 st.title("strategi Pemasaran Tabel 1")
 st.write("- berdasarkan segmentasi usia muda, fokus promosi pada hydration care dengan sasaran target remaja dan dewasa muda,")
-st.write("- berdasarkan segmentasi usia dewasa, dewasa, menekankan pentingnya anti-aging dan UV protection, promosikan sunscreen & serum dengan antioksidan,")
-st.write("- berdasarkan segmen usia tua, Tonjolkan manfaat gentle cleanser & moisturizer untuk kulit sensitif dan anti-aging ringan.")
+st.write("- berdasarkan segmentasi usia dewasa, menekankan pentingnya anti-aging dan UV protection, promosikan sunscreen,")
+st.write("- berdasarkan segmen usia tua, Tonjolkan manfaat gentle cleanser untuk kulit sensitif.")
 st.subheader("mengadakan bundling produk, seperti :")
 st.write("- paket “Daily Starter” untuk usia muda (serum + moisturizer),")
 
 st.write("- paket “Protection Set” untuk dewasa (sunscreen + moisturizer)")
+
