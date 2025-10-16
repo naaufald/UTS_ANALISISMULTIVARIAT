@@ -78,7 +78,7 @@ st.markdown(
     """
     <div style="text-align: center;">
         <img src="https://raw.githubusercontent.com/naaufald/UTS_ANALISISMULTIVARIAT/main/datauts.png" width="500">
-        <p><em>Tabel 1</em></p>
+        <p><em>Tabel 2</em></p>
     </div>
     """,
     unsafe_allow_html=True
@@ -107,7 +107,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.title("Melakukan CA")
+st.title("Melakukan CA Tabel 1")
 kode_r = """
 ```r
 library(ca)
@@ -208,4 +208,5 @@ st.write("- berdasarkan segmentasi usia dewasa, dewasa, menekankan pentingnya an
 st.write("- berdasarkan segmen usia tua, Tonjolkan manfaat gentle cleanser & moisturizer untuk kulit sensitif dan anti-aging ringan.")
 st.subheader("mengadakan bundling produk, seperti :")
 st.write("- paket “Daily Starter” untuk usia muda (serum + moisturizer),")
+
 st.write("- paket “Protection Set” untuk dewasa (sunscreen + moisturizer)")
